@@ -92,7 +92,7 @@ Contributions are welcome! 🎉 If you'd like to improve this project:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Live Demo
-Experience the Netflix Clone Frontend live: [https://itsiamdev.github.io/Netflix-Clone-Frontend/](https://itsiamdev.github.io/Netflix-Clone-Frontend/)
+Experience the Netflix Clone Frontend live: [https://itsiamdev.github.io/Netflix-Clone-Frontend/](https://itsiamdev.github.ioNetflix-Clone-Frontend/)
 
 ---
 
