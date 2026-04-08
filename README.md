@@ -1,6 +1,7 @@
 # 🍿 Netflix Clone Frontend
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=netflix)](https://iam269.github.io/Netflix-Clone-Frontend/)
+## 🔗 Live Demo
+Experience the Netflix Clone Frontend live: [https://itsiamdev.github.io/Netflix-Clone-Frontend/](https://itsiamdev.github.io/Netflix-Clone-Frontend/)
 
 Welcome to the **Netflix Clone Frontend** project! 🎬 This is a meticulously crafted replica of Netflix's iconic user interface, designed to provide an immersive streaming experience. Built with modern web technologies, this project showcases responsive design, smooth animations, and an intuitive navigation system that mimics the real Netflix platform.
 
@@ -90,9 +91,6 @@ Contributions are welcome! 🎉 If you'd like to improve this project:
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Live Demo
-Experience the Netflix Clone Frontend live: [https://itsiamdev.github.io/Netflix-Clone-Frontend/](https://itsiamdev.github.io/Netflix-Clone-Frontend/)
 
 ---
 
